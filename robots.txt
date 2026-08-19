@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xvmnnk.keitaro-tech-rtb.online/sitemap.xml
